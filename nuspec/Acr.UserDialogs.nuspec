@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Acr.UserDialogs</id>
-        <version>6.5.1</version>
+        <version>6.5.2</version>
         <title>ACR User Dialogs Plugin for Xamarin and Windows</title>
         <summary>Allows for messagebox style dialogs to be called from your shared/PCL/MVVM code</summary>
         <description>
@@ -17,7 +17,7 @@ Allows for messagebox style dialogs to be called from your shared/PCL/MVVM code
 - Prompt
 - Toast (Snackbars)
 - Time
-
+- Number Picker
 On android, be sure to call UserDialogs.Init() before using!
 
 Supported Platforms
@@ -26,12 +26,12 @@ Supported Platforms
 - Universal Windows Platform (Win10/UWP)
 - NET Standard 1.1
         </description>
-        <authors>Allan Ritchie</authors>
-        <owners>Allan Ritchie</owners>
+        <authors>Juan Agu, Allan Ritchie</authors>
+        <owners>Juan Agu</owners>
         <!--<iconUrl>https://github.com/aritchie/userdialogs/raw/master/icon.png</iconUrl>-->
-        <licenseUrl>https://github.com/aritchie/userdialogs/blob/master/LICENSE.md</licenseUrl>
-        <releaseNotes>https://github.com/aritchie/userdialogs/blob/master/docs/changelog.md</releaseNotes>
-        <projectUrl>https://github.com/aritchie/userdialogs</projectUrl>
+        <licenseUrl>https://github.com/juanagu/userdialogs/blob/master/LICENSE.md</licenseUrl>
+        <releaseNotes>https://github.com/juanagu/userdialogs/blob/master/docs/changelog.md</releaseNotes>
+        <projectUrl>https://github.com/juanagu/userdialogs</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <tags>windows ios android xamarin xam.pcl dialogs plugin</tags>
         <dependencies>
