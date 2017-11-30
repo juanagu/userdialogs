@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>Acr.UserDialogs</id>
+        <id>Jagu.UserDialogs</id>
         <version>6.5.2</version>
-        <title>ACR User Dialogs Plugin for Xamarin and Windows</title>
+        <title>Jagu User Dialogs Plugin for Xamarin and Windows</title>
         <summary>Allows for messagebox style dialogs to be called from your shared/PCL/MVVM code</summary>
         <description>
 Allows for messagebox style dialogs to be called from your shared/PCL/MVVM code
