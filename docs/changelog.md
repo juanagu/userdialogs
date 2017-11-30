@@ -1,5 +1,6 @@
 ﻿# CHANGELOG
-
+## 6.5.2
+* [feature] Add number picker Android e iOS and XF.
 ## 6.5.1
 * [fix][android] Cancel with tap on outside will now properly dismiss and call the Cancel action
 * [fix][android] ActionSheetAsync works with tap on outside cancelling
