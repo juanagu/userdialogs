@@ -111,11 +111,6 @@
       <Project>{6a0ae941-711d-4c36-a311-960b65534b22}</Project>
       <Name>Acr.UserDialogs.Interface</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Acr.UserDialogs.macOS\Acr.UserDialogs.macOS.csproj">
-      <Project>{8a0fc475-221d-4fe0-8308-3f703dc08f52}</Project>
-      <Name>Acr.UserDialogs.macOS</Name>
-      <IsAppExtension>false</IsAppExtension>
-    </ProjectReference>
     <ProjectReference Include="..\Samples\Samples.csproj">
       <Project>{74CEE6C1-4CE8-4279-82AF-D5A5DDD76D18}</Project>
       <Name>Samples</Name>
